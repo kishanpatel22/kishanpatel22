@@ -10,4 +10,12 @@
 - 💻 Check out more at **<a href="https://kishanpatel22.github.io/">kishanpatel22.github.io</a>**
 - 😄 Fun Fact: I love Math and Physics over Programming.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishanpatel22&show_icons=true" alt="kishanpatel22" /></p>
+
+<a href="https://github.com/kishanpatel22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanpatel22&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Kishan Patel's Stats" />
+</a>
+
+<a href="https://github.com/kishanpatel22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishanpatel22&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Kishan Patel's Stats" />
+</a>
+
