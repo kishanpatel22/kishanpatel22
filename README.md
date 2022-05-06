@@ -2,13 +2,13 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
 
-- 🔭 Computer Science, TY Btect student studying at **College of Engineering Pune (CoEP)**
+- 🔭 Computer Science graduate from **College of Engineering Pune (CoEP)**
 - 🌱 Learning new **algorithms** to solve **real world problems**.
-- 👯 Looking to collaborate on **Systems and Web backend (MERN) projects**
-- 💬 Ask me about **Competitive Programming, System Desgin and Web Apps**
+- 👯 Looking to collaborate on **Systems programming**
+- 💬 Ask me about **Competitive Programming, System Design and Maths**
 - 📫 Reach me at **kp768919@gmail.com**
 - 💻 Check out more at **<a href="https://kishanpatel22.github.io/">kishanpatel22.github.io</a>**
-- 😄 Fun Fact: I love Math and Physics over Programming.
+- 😄 Fun Fact: I prefer Math and Physics over Programming.
 
 
 <a href="https://github.com/kishanpatel22">
